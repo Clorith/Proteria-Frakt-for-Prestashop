@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>proteriafrakt</name>
+	<displayName><![CDATA[Proteria Frakt]]></displayName>
+	<version><![CDATA[1.2]]></version>
+	<description><![CDATA[Modul for generering av XML import filer for Proteria Frakt]]></description>
+	<author><![CDATA[Marius]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

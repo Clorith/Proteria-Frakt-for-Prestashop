@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FraktXml>
+	<Sending>
+		<OrdreNr></OrdreNr>
+		<SendingsType>101</SendingsType>
+		<PakkeType>1100</PakkeType>
+		<Mottaker>
+			<Navn></Navn>
+			<PostAdr1></PostAdr1>
+			<PostNr></PostNr>
+			<PostSted></PostSted>
+			<LevAdr1></LevAdr1>
+			<LevPostNr></LevPostNr>
+			<LevPostSted></LevPostSted>
+			<KontaktPerson></KontaktPerson>
+			<Mobil></Mobil>
+		</Mottaker>
+		<Tjenester>
+			<T4>1</T4>
+		</Tjenester>
+	</Sending>
+</FraktXml>
